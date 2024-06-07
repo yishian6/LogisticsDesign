@@ -1,0 +1,11 @@
+*.ini
+*.xlsx
+.env
+.idea/
+logs/
+.pytest_cache
+bvenv/
+*.png
+.vscode/
+.history/
+
